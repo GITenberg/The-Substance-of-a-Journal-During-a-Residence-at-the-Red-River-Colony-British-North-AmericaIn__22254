@@ -1,0 +1,35 @@
+_repo: The-Substance-of-a-Journal-During-a-Residence-at-the-Red-River-Colony-British-North-AmericaIn__22254
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: West, John
+    birthdate: 1778
+    deathdate: 1845
+    gutenberg_agent_id: '26427'
+    url: http://www.gutenberg.org/2009/agents/26427
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2007-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Red River Settlement'
+- !lcsh 'Manitoba -- Description and travel'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcc 'F1001'
+- !lcsh 'Indians of North America -- Canada -- Missions'
+title: 'The Substance of a Journal During a Residence at the Red River Colony, British
+  North America
+
+  and Frequent Excursions Among the North-West American
+
+  Indians, In the Years 1820, 1821, 1822, 1823.'
+url: http://www.gutenberg.org/ebooks/22254
