@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26427'
     url: http://www.gutenberg.org/2009/agents/26427
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22254#The-Substance-of-a-Journal-During-a-Residence-at-the-Red-River-Colony-British-North-AmericaIn_
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2007-08-06'
 gutenberg_type: Text
